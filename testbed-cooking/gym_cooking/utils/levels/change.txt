@@ -1,0 +1,33 @@
+-/-/TL-
+T -   -
+L - ---
+U -   -
+U - ---
+U -   -
+B - ---
+P f   -
+-*-*---
+
+OnionLettuceSoup
+OnionTomatoSoup
+FullSoup
+
+1 1
+3 1
+4 1
+5 1
+
+FreshOnionTile
+
+6 1
+4 2
+5 2
+6 3
+4 4
+5 4
+6 5
+4 6
+5 6
+6 7
+4 8
+5 8

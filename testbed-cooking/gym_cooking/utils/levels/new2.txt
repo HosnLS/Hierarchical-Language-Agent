@@ -1,0 +1,19 @@
+-TT-LL-
+/  -  O
+/  -  O
+/  -  /
+P  -  -
+U  -  -
+U  -  -
+U  -  *
+-BB-fB-
+
+TomatoLettuceSoup
+OnionLettuceSoup
+OnionTomatoSoup
+FullSoup
+
+1 1
+5 1
+2 1
+3 1

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gym_cooking"
+version = "1.0.0"
+
+requires-python = ">=3.10"
+dependencies = [
+    "gym",
+    "numpy",
+    "networkx",
+    "matplotlib",
+    "termcolor",
+    "pygame",
+]
+
+[tool.setuptools.packages.find]
+exclude = []
