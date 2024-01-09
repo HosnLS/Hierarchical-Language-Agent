@@ -1,5 +1,9 @@
 # Hierarchical Language Agent
 
+This is a repository of the paper [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224).
+
+More demonstrations can be seen on the [Project Website](https://sites.google.com/view/overcooked-hla/).
+
 ## 1. Install
 
 ### 1.1 LLM-API
@@ -113,3 +117,18 @@ python agent/agent/replay_main.py --replay ring-HLA-20010101_0101.rep
 ```
 
 The replay is played in `2X` speed.
+
+## Citation
+
+If you find this repository useful, please cite [our paper](https://arxiv.org/abs/2312.15224):
+
+```
+@misc{liu2023llmpowered,
+      title={LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination}, 
+      author={Jijia Liu and Chao Yu and Jiaxuan Gao and Yuqing Xie and Qingmin Liao and Yi Wu and Yu Wang},
+      year={2023},
+      eprint={2312.15224},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
